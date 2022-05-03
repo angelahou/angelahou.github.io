@@ -3,7 +3,7 @@
 ### About me
 My name is Angela, and I graduated with a B.S. in Chemical Engineering (Energy and Environment concentration) from UC Berkeley. I also (almost) hold a Master's degree in Molecular Science and Software Engineering. With these two degrees, I hope to be a liaison between both classical science and data science, and apply physical significance to results obtained via software solutions. Currently, my career field of choice is in the clean energy space!
 
-In my spare time, I love dancing, doing arts and crafts, and gaming! I also thoroughly enjoy trying out new recipes and playing the daily Wordle.
+In my spare time, I love dancing, doing arts and crafts (I'm currently working on a cross stich project of Hokusai's Great Wave off Kanagawa), and gaming! I also thoroughly enjoy trying out new recipes and playing the daily Wordle.
 
 ### Software packages
 
@@ -16,6 +16,9 @@ As part of a group project in our Machine Learning class, we attempted to reprod
 #### [Quantum computing with CNDO/2](https://github.com/angelahou/angelahou.github.io/tree/main/CNDO2)
 In our Numerical Algorithms appled to Computational Quantum Chemistry class, we learned about and implemented the Complete Neglect of Differential Overlap (CNDO/2) method, which aims to predict a molecule's energy given its Cartesian coordinates. CNDO/2 only includes valence electrons in its analysis, and implements the zero-differential overlap assumption. This project focused on evaluating hydrocarbons but can potentially be extended to molecules containing other atoms. My [implementation](https://docs.google.com/presentation/d/1Rk6E4Uifkgr0W22fsw7yY3rAkx2it7cbWLR5DomoyQY/edit?usp=sharing) focused on serial performance optimization, i.e. cutting down the time to generate the Fock and density matrices, as well as speed up matrix multiplication.
 
+#### Predicting Key Performance Indicators at Twelve
+todo: add description
+
 ### Drop me a line!
 
-Feel free to email me at angela.hou@berkeley.edu or drop me a message on [LinkedIn](https://www.linkedin.com/in/angela-hou-3b444817b/)!
+Feel free to email me at `angela.hou@berkeley.edu` or drop me a message on [LinkedIn](https://www.linkedin.com/in/angela-hou-3b444817b/)!
