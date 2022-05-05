@@ -16,8 +16,8 @@ As part of a group project in our Machine Learning class, we attempted to reprod
 #### [Quantum computing with CNDO/2](https://github.com/angelahou/angelahou.github.io/tree/main/CNDO2)
 In our Numerical Algorithms appled to Computational Quantum Chemistry class, we learned about and implemented the Complete Neglect of Differential Overlap (CNDO/2) method, which aims to predict a molecule's energy given its Cartesian coordinates. CNDO/2 only includes valence electrons in its analysis, and implements the zero-differential overlap assumption. This project focused on evaluating hydrocarbons but can potentially be extended to molecules containing other atoms. My [implementation](https://docs.google.com/presentation/d/1Rk6E4Uifkgr0W22fsw7yY3rAkx2it7cbWLR5DomoyQY/edit?usp=sharing) focused on serial performance optimization, i.e. cutting down the time to generate the Fock and density matrices, as well as speed up matrix multiplication.
 
-#### Predicting Key Performance Indicators at Twelve
-todo: add description
+<!-- #### Predicting Key Performance Indicators at [Twelve Benefit Corporation](https://www.twelve.co/)
+Twelve Benefit Corporation's mission is to combat climate change by converting CO2 into value-added products, with one example being Twelve's E-Jet technology.  -->
 
 ### Drop me a line!
 
