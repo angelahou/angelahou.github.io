@@ -1,9 +1,9 @@
 ## Welcome to Angela's Software Portfolio!
 
 ### About me
-My name is Angela, and I graduated with a B.S. in Chemical Engineering (Energy and Environment concentration) from UC Berkeley in 2020. Two years later, I graduated with a Master's degree in Molecular Science and Software Engineering, also from UC Berkeley. With these two degrees, I hope to be a liaison between both classical science and data science; I love being able to teach my scientist colleagues about powerful tools used in data science, and likewise love explaining to data scientists and software engineers the importance of the experiments that we're running. Currently, my career field of choice is in the clean energy space! I've worked at Twelve (a carbon transformation company) and currently am at Blue Current (a solid-state battery company).
+My name is Angela, and I graduated with a B.S. in Chemical Engineering (Energy and Environment concentration) from UC Berkeley in 2020. Two years later, I graduated with a Master's degree in Molecular Science and Software Engineering, also from UC Berkeley. With these two degrees, I hope to be a liaison between both classical science and data science; I love being able to teach my scientist colleagues about powerful tools used in data science, and likewise love explaining to data scientists and software engineers the importance of the experiments that we're running. Currently, my career field of choice is in the clean energy space! I've worked at Twelve (a carbon transformation company), Blue Current (a solid-state battery company), and currently am at Cuberg as a Battery Cell Engineer on the Validation team.
 
-In my spare time, I love dancing, doing arts and crafts (I'm currently working on a cross stich project of Hokusai's Great Wave off Kanagawa), and gaming! I also thoroughly enjoy trying out new recipes and playing the daily Wordle.
+In my spare time, I love dancing, doing arts and crafts, and gaming! I also thoroughly enjoy trying out new recipes and playing the daily Wordle. Currently I'm looking for cool patches to sew onto my denim jacket -- my goal is for this jacket to be a conversation starter!
 
 ### Software packages
 
